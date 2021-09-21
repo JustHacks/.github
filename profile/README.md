@@ -27,7 +27,7 @@ If you would like to team up in upcoming hacks. Shoot me a message on discord (l
     <td align="center"><a href="https://github.com/Amola101">
     <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/user_photos/001/362/551/datas/profile.jpeg" width="100px;" alt="Amelia"/><br />
     <sub><b>Amelia Catala</b></sub></a></td>
-    <td align="center"><a href="https://github.com/SHSEDHG">
+    <td align="center"><a href="https://github.com/shs-coder23">
     <img src="https://media.discordapp.net/attachments/857709079714594826/867366501463228436/SHSS.jpg" width="100px;" alt="Harini"/><br />
     <sub><b>Harini Sri S</b></sub></a></td>
   </tr>
